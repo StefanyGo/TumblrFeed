@@ -67,7 +67,6 @@
                                             <outlet property="avatarView" destination="1JH-d1-Ppn" id="MIt-Ru-zeL"/>
                                             <outlet property="label" destination="AyO-iu-BNw" id="xb7-83-X08"/>
                                             <outlet property="photoView" destination="TEH-di-Va7" id="kgf-Qb-1b0"/>
-                                            <outlet property="title" destination="AyO-iu-BNw" id="d6w-tB-tZE"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -75,7 +74,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tumblr" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="l5r-RX-eLb">
                                 <rect key="frame" x="106" y="7" width="134" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="39"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="41"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
